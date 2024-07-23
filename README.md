@@ -20,7 +20,7 @@ Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio 
 *Coming soon!*
 
 ## Connect with me!
-- [LinkedIn](https://www.linkedin.com/in/rohankrish/)
-- [Medium.com](https://medium.com/@rohan.krishnan)
-- [Email me](mailto:rohan.krish20@gmail.com)
+- 👨🏾‍💼 [LinkedIn](https://www.linkedin.com/in/rohankrish/)
+- ✍🏾 [Medium.com](https://medium.com/@rohan.krishnan)
+- 📧 [Email me](mailto:rohan.krish20@gmail.com)
 
