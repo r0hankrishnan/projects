@@ -1,5 +1,5 @@
 # 💼 Rohan's Portfolio
-Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio projects with links to the more in-depth documentation. 
+Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio projects with links to the more in-depth documentation. If you are interested in talking, collaborating on a fun project, are looking for a data analyst, or just want to following along with my learning journey, please [get in touch](connect-with-me) 😄!
 
 # R Projects
 | Project Link | Area | Description | Libraries |
@@ -18,4 +18,9 @@ Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio 
 
 # SQL Projects
 *Coming soon!*
+
+## Connect with me!
+- [LinkedIn](https://www.linkedin.com/in/rohankrish/)
+- [Medium.com](https://medium.com/@rohan.krishnan)
+- [Email me](mailto:rohan.krish20@gmail.com)
 
