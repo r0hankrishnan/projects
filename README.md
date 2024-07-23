@@ -1,5 +1,5 @@
 # 💼 Rohan's Portfolio
-Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio projects with links to the more in-depth documentation. If you are interested in talking, collaborating on a fun project, are looking for a data analyst, or just want to following along with my learning journey, please [get in touch](connect-with-me) 😄!
+Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio projects with links to the more in-depth documentation. If you are interested in talking, collaborating on a fun project, are looking for a data analyst, or just want to following along with my learning journey, please [get in touch](#connect-with-me) 😄!
 
 # R Projects
 | Project Link | Area | Description | Libraries |
