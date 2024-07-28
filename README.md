@@ -12,14 +12,14 @@ Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio 
 | Project Link | Area | Description | Libraries |
 |--------------|------|-------------|-----------|
 | (*WIP*) 🐍 [CS50P](https://github.com/r0hankrishnan/cs-50-python) | Python Programming | This repo includes, notes, examples, and problem solutions to each lecture (*ongoing*) in the CS50 Python course. | - |
-| (*WIP*) 🏈 [NFL Playoff Predictor](https://github.com/r0hankrishnan/nfl-playoff-predictor) | Data Collection, Data Wrangling & EDA, Predictive Modelling | Using self-collected data on the characteristics of NFL teams that make the playoffs, create visualizations, analyses, and predictive models with the goal of predicting a team's chance of making the playoffs based on their regular season performance | pandas, matplotlib, seaborn, scikit-learn |
+| (*WIP*) 🏈 [NFL Playoff Predictor](https://github.com/r0hankrishnan/nfl-playoff-predictor) | Data Collection, Data Wrangling & EDA, Predictive Modelling | Using self-collected data on the characteristics of NFL teams that make the playoffs, create visualizations, analyses, and predictive models with the goal of predicting a team's chance of making the playoffs based on their regular season performance. | pandas, matplotlib, seaborn, scikit-learn |
 
 *I am currently working on updating the repositories of my python projects. You can view them in the pinned section of my profile for now!*
 
 ## Data Visualization/Business Intelligence
 | Project Link | Area | Description | Tools |
 |--------------|------|-------------|-------|
-| [US Economic Indicators](https://github.com/r0hankrishnan/economic-indicators) | Data Collection, Data Wrangling, Data Visualization, Dashboarding | Collected US economic data from several online sources. Cleaned, organized and explored economic indicator data before using Tableau and Figma to develop a high-level analytic dashboard | Python, Tableau |
+| [US Economic Indicators](https://github.com/r0hankrishnan/economic-indicators) | Data Collection, Data Wrangling, Data Visualization, Dashboarding | Collected US economic data from several online sources. Cleaned, organized and explored economic indicator data before using Tableau and Figma to develop a high-level analytic dashboard. | Python, Tableau |
 
 ## SQL
 *Coming soon!*
