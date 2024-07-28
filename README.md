@@ -19,7 +19,7 @@ Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio 
 ## Data Visualization/Business Intelligence
 | Project Link | Area | Description | Tools |
 |--------------|------|-------------|-------|
-| [US Economic Indicators](https://github.com/r0hankrishnan/economic-indicators) | Data Collection, Data Wrangling, Data Visualization, Dashboarding | Collected US economic data from several online sources. Cleaned, organized and explored economic indicator data before using Tableau and Figma to develop a high-level analytic dashboard. | Python, Tableau |
+| 📈 [US Economic Indicators](https://github.com/r0hankrishnan/economic-indicators) | Data Collection, Data Wrangling, Data Visualization, Dashboarding | Collected US economic data from several online sources. Cleaned, organized and explored economic indicator data before using Tableau and Figma to develop a high-level analytic dashboard. | Python, Tableau |
 
 ## SQL
 *Coming soon!*
