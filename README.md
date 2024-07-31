@@ -24,7 +24,7 @@ Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio 
 ## SQL
 | Project Link | Area | Description |
 |--------------|------|-------------|
-| (*WIP) 🔍 [Data with Danny 8-Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql) | Self-Learning, Data Cleaning, Data Querying, Data Analysis | This repository will contain analyses, notes, and solutions for the 8 case studies as I work through the 8-Week SQL Challenge from Data With Danny. | 
+| (*WIP) 🔍 [8-Week SQL Challenge](https://github.com/r0hankrishnan/8-week-sql) | Self-Learning, Data Cleaning, Data Querying, Data Analysis | This repository will contain analyses, notes, and solutions for the 8 case studies as I work through the 8-Week SQL Challenge from Data With Danny. | 
 
 ## Connect with me!
 - 👨🏾‍💼 [LinkedIn](https://www.linkedin.com/in/rohankrish/)
