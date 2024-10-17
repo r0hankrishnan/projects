@@ -6,6 +6,7 @@ Welcome to my *work-in-progress* portfolio! This is an overview of my portfolio 
 |--------------|------|-------------|------------|
 | 🎸 [Song Popularity Prediction](https://github.com/r0hankrishnan/song-popularity) | Data Cleaning, EDA,  Predictive Modelling & Fine-Tuning, Dashboarding | Used R to clean, analyze, and visualize a dataset of 1200 songs with 19 characteristics. Tested several models to find which best predicted a song's popularity. Also used RShiny to create a song popularity prediction dashboard. | dplyr,  ggplot2, felm, gbm, randomForest, broom, Rshiny, leaps, glmnet |
 | 🏠 [US Housing Analysis](https://github.com/r0hankrishnan/us-housing-analysis) | Data Cleaning, EDA, Predicitve Modelling & Fine-Tuning, Reporting | Conducted an analysis of the US housing market by combining and analyzing three datasets from Kaggle.com. Created several machine learning models to predict housing price index and to used clustering techniques to further explore the data. Created simple R shiny dashboard to visualize clustering.| dplyr, ggplot2, kable, MASS, broom, modelr, purr, rpart, randomForest, caret, factoextra, cluster, Rshiny |
+| 💰 [Econometrics II: Advanced Methods Paper Recreations](https://github.com/r0hankrishnan?tab=repositories) | Data Cleaning, EDA, Econometric Modelling, Report Generation | Recreated 6 published microeconomic research papers using official data and R | dplyr, stargazer, ggplot2, felm | 
 
 ## Python
 | Project Link | Area | Description | Libraries |
