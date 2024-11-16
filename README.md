@@ -1,7 +1,3 @@
-.html{
-  scroll-behavior: smooth;
-}
-
 # 💼 Rohan's Projects
 Welcome to my project portfolio! This is a high-level list of my portfolio projects with links to the more in-depth documentation. If you are interested in talking, collaborating on a fun project, are looking for a data analyst, or just want to following along with my learning journey, please [get in touch](#connect-with-me) 😄!
 
